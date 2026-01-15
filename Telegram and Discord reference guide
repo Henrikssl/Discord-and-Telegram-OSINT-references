@@ -116,12 +116,4 @@ User details that can be extracted from Discord (authenticated):
 Gateway code(heartbeat/websocket codes)
 discord.com/developers/docs/topics/opcodes-and-status-codes
  
-Public Flag lookup for displayed badges:
-github.com/Delitefully/DiscordLists/blob/master/flags.md
- 
-These are the ‘public_flag’ codes in the output from the user’s account. 
-Example - 'public_flags': 256 == Hypesquad_online_house_3
-
-
-
-
+{ Let fendi login }
